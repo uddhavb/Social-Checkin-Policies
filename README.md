@@ -1,4 +1,4 @@
-# Social-Checkin-Policies
+# Social Checkin Policies
 Learn from other people and decide checkin policy for different locations and companions
   
 ### To Run the program  
@@ -20,22 +20,25 @@ The program will prompt necessary inputs.
     
 **Goals:**   
 Stakeholders: (Assigned in order of importance)   
-Primary:	1. Safety   
-			2. Privacy   
-			3. Fame   
-Secondary:	1. Safety   
-			2. Privacy   
-			3. Not Spoil Fun   		
+Primary:   	
+1. Safety   
+2. Privacy   
+3. Fame   
+Secondary:	
+1. Safety   
+2. Privacy   
+3. Not Spoil Fun   		
+  
 **Plans:**   
 Primary:	1. Safety -> Share with friends
 			2. Privacy -> share with companions/ share with no one
 			3. Fame -> Share with all
 Secondary:	 
-| Primary plans: | Share with friends | Share with no one | Share with companions | Share with all |    
-|---|---|---|---|---|   
-| Safety | Positive | Very Negative | Neutral | Very Positive |    
-| Privacy | Negative | Very Positive | Positive | Very Negative |  
-| Fame | Positive	| Very Negative | Neutral | Very Positive |  
+|    Primary plans:     |    Share with friends    |    share with no one    |    Share with companions    |    Share with all    |
+|-----------------------|--------------------------|-------------------------|-----------------------------|----------------------|
+|    Safety             |    Positive              |    Very Negative        |    Neutral                  |    Very Positive     |
+|    Privacy            |    Negative              |    Very Positive        |    Positive                 |    Very Negative     |
+|    Fame               |    Positive              |    Very Negative        |    Neutral                  |    Very Positive     |
 		
 		
 **Contexts:**
