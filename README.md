@@ -30,10 +30,13 @@ Secondary:
 3. Not Spoil Fun   		
   
 **Plans:**   
-Primary:	1. Safety -> Share with friends
-			2. Privacy -> share with companions/ share with no one
-			3. Fame -> Share with all
+Primary:	
+1. Safety -> Share with friends   
+2. Privacy -> share with companions/ share with no one   
+3. Fame -> Share with all    
+  
 Secondary:	 
+    
 |    Primary plans:     |    Share with friends    |    share with no one    |    Share with companions    |    Share with all    |
 |-----------------------|--------------------------|-------------------------|-----------------------------|----------------------|
 |    Safety             |    Positive              |    Very Negative        |    Neutral                  |    Very Positive     |
