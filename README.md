@@ -23,7 +23,8 @@ Stakeholders: (Assigned in order of importance)
 Primary:   	
 1. Safety   
 2. Privacy   
-3. Fame   
+3. Fame     
+    
 Secondary:	
 1. Safety   
 2. Privacy   
